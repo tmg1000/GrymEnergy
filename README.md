@@ -10,4 +10,5 @@
 <p class ="olk" >GRYM</p>
 </body>
 </head>
+</style>
 </html>
