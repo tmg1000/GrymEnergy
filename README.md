@@ -1,7 +1,7 @@
-<head>
 <doctype html>
 <html lang="sv">
-<title>2a</title>
+<head>
+  <title> test </title>
 <body>
 <h1>GRYM</h1>
 </body>
