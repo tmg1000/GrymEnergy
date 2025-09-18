@@ -1,5 +1,10 @@
 <doctype html>
 <html lang="sv">
+<style>
+  h1 {
+    border-bottom: none;
+  }
+</style>
 <head>
   <title> test </title>
 <body>
