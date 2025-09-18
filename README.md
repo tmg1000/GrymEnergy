@@ -1,9 +1,13 @@
 <doctype html>
 <html lang="sv">
 <head>
-  <title> test </title>
+  <style>
+    .olk{
+      color: red;
+    }
+<title> test </title>
 <body>
-<h1>GRYM</h1>
+<p class ="olk" >GRYM</p>
 </body>
 </head>
 </html>
