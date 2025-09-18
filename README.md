@@ -4,7 +4,7 @@
   <title> test </title>
 <body>
 <h1>hello sir</h1>
-<h2>this is a test</h2>
+<h1>this is a test</h1>
 </body>
 </head>
 <head>
